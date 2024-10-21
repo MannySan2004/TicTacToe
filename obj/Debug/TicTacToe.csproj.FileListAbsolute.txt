@@ -1,0 +1,20 @@
+C:\Users\mrmrm\Desktop\Misc\C#\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\mrmrm\Desktop\Misc\C#\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\mrmrm\Desktop\Misc\C#\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\mrmrm\Desktop\Misc\C#\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\mrmrm\Desktop\Misc\C#\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\mrmrm\Desktop\Misc\C#\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\mrmrm\Desktop\Misc\C#\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\mrmrm\Desktop\Misc\C#\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\mrmrm\Desktop\Misc\C#\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\mrmrm\Desktop\Misc\C#\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\rosal\OneDrive\Desktop\Code\TINFO 200\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\rosal\OneDrive\Desktop\Code\TINFO 200\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\rosal\OneDrive\Desktop\Code\TINFO 200\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\rosal\OneDrive\Desktop\Code\TINFO 200\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\rosal\OneDrive\Desktop\Code\TINFO 200\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\rosal\OneDrive\Desktop\Code\TINFO 200\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\rosal\OneDrive\Desktop\Code\TINFO 200\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\rosal\OneDrive\Desktop\Code\TINFO 200\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\rosal\OneDrive\Desktop\Code\TINFO 200\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\rosal\OneDrive\Desktop\Code\TINFO 200\TicTacToe\obj\Debug\TicTacToe.pdb
